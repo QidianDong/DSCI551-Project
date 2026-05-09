@@ -1,5 +1,5 @@
 # Flower Shop Admin  
-# DSCI 551 Final Project - Qidian Dong  
+## DSCI 551 Final Project - Qidian Dong  
 
 ## Overview
 This is a full-stack database application built with PostgreSQL and Streamlit.  
