@@ -1,4 +1,3 @@
-````markdown
 # Flower Shop Admin  
 # DSCI 551 Final Project - Qidian Dong  
 
