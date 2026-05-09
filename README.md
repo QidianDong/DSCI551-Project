@@ -11,13 +11,13 @@ It demonstrates database internal behaviors such as MVCC snapshot isolation, dea
 ## 1. Prerequisites & Environment
 - Python: 3.12  
 - PostgreSQL: v12 or higher (installed and running locally)  
-- pgAdmin (optional but recommended)
+- pgAdmin
 
 First, create the database in PostgreSQL:
 
 ```sql
 -- run schema.sql in pgAdmin or psql
-````
+```
 
 ---
 
